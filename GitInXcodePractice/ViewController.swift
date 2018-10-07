@@ -22,5 +22,12 @@ class ViewController: UIViewController {
         
     }
     
+    
+    func madeAfterREADME() {
+        
+        // test
+        
+    }
+    
 }
 
